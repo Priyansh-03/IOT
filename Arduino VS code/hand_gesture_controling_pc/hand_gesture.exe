@@ -1,0 +1,16 @@
+# 1 "C:\\Users\\priya\\Desktop\\Arduino Projects\\Arduino VS code\\hand_gesture_controling_pc\\hand_gesture.ino"
+# 1 "C:\\Users\\priya\\Desktop\\Arduino Projects\\Arduino VS code\\hand_gesture_controling_pc//"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "C:\\Users\\priya\\Desktop\\Arduino Projects\\Arduino VS code\\hand_gesture_controling_pc\\hand_gesture.ino"
+# 10 "C:\\Users\\priya\\Desktop\\Arduino Projects\\Arduino VS code\\hand_gesture_controling_pc\\hand_gesture.ino"
+void setup()
+{
+    Serial.begin(9600);
+
+}
+void loop()
+{
+    Serial.println("hello");
+
+}
